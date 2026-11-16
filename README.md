@@ -325,12 +325,3 @@ Penelitian ini membangun model SVR berkernel RBF dengan $C = 1000$ dan $\gamma =
 10. Smola, A. J., & Schölkopf, B. (2004). A tutorial on support vector regression. *Statistics and Computing, 14*(3), 199–222. https://doi.org/10.1023/B:STCO.0000035301.49549.88
 
 ---
-
-## 10. Penulis dan Lisensi
-
-**Penulis:** `<Nama Anda>` — `<Institusi / Program Studi>`  
-**Kontak:** `<email atau tautan profil>`
-
-Proyek ini dirilis di bawah lisensi `<MIT / Apache-2.0 / lainnya>`. Dataset tunduk pada ketentuan lisensi penyedia aslinya.
-
-Jika repositori ini bermanfaat, silakan beri ⭐ dan sitasi sebagaimana mestinya.
